@@ -1,0 +1,44 @@
+public class Suiji {
+
+	public static void main(String args[])
+	{
+		int i,j,y,h,g,f;
+		char  x[]={42,43,45,47};
+		
+		for(h=0;h<30;h++)
+		{
+		i=(int)(Math.random()*99+0);
+		
+		y=(int)(Math.random()*x.length+0);
+		
+		
+		j=(int)(Math.random()*99+1);
+		
+		 g=(int)(Math.random()*99+0);
+		 
+		 f=(int)(Math.random()*99+1);
+		 
+        System.out.println("("+i+"/"+j+")"+x[y]+"("+g+"/"+f+")"+"=");
+        System.out.println("("+i+ x[y]+ g+")"+"=");
+	
+		
+	
+	
+	
+	
+	}
+		
+		
+		}
+		
+		
+		
+		}
+		
+	
+	
+		
+	
+	
+
+
